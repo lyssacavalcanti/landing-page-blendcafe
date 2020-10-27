@@ -8,3 +8,8 @@ body {
     font-family: 'Poppins', sans-serif;
     color: #2A0800 ;
 }
+
+.videos {
+    align-items: center;
+    align-content: center;
+}
