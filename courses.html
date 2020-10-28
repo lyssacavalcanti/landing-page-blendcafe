@@ -6,10 +6,13 @@
     <title>Cursos | Blend Café </title>
     <link rel = "stylesheet" href="./style/courses.css"/>
     <script src="./script/script.js" defer></script>
-    <script src="./script/back-button.js" defer></script>
     </head>
         <body>
             <h1>CURSOS | BLEND CAFÉ </h1>
-            <a title="Voltar" onclick="voltar()">Voltar página anterior</a>
+            <div class="back-button">
+                <button onclick="history.back()">
+                    <img src="./images/arrow-back.png" alt="Voltar" />
+                </button>
+            </div>
         </body>
     </html>
