@@ -16,4 +16,3 @@ function getLinkWhastapp(number, message) {
     return console.log('https://api.whatsapp.com/send?phone=' + number + '&text=%20' + message)
   }
   
-  getLinkWhastapp()
