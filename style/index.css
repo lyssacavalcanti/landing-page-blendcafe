@@ -72,5 +72,15 @@ nav a {
     text-decoration: none;
 }
 
-
+#btnTop{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    height: 50px;
+    width: 50px;
+    color: #fff;
+    background: #333333;
+    border-radius: 50vh;
+    border: none;
+}
 

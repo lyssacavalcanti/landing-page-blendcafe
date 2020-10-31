@@ -1,4 +1,21 @@
 
-.back-button {
-    color: rgb(92, 48, 16);
+.btn {
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+    position: fixed;
+
+
+}
+
+#btnTop{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    height: 50px;
+    width: 50px;
+    color: #fff;
+    background: #333333;
+    border-radius: 50vh;
+    border: none;
 }
